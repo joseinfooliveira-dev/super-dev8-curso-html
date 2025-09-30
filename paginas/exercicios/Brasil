@@ -6,8 +6,49 @@
     <title> Brasil - Pontos Turísticos</title>
 </head>
 <body>
+
+     <a href="../../index.html">Página Principal</a>
     <h1> Brasil</h1>
+    <br>
     <h2> Pontos Turísticos</h2>
+    <br>
+    <h3>Cristo Redentor (Rio de Janeiro – RJ)</h3>
+    <br>
+    <p>O Cristo Redentor é uma das maiores estátuas do mundo e um dos símbolos mais conhecidos do Brasil. Localizado no topo do Morro do Corcovado, no Rio de Janeiro, oferece uma vista panorâmica da cidade e de pontos como a Baía de Guanabara e o Pão de Açúcar. É famoso por sua imponência, com 38 metros de altura, e por ser considerado uma das Sete Maravilhas do Mundo Moderno. O melhor horário para visitá-lo é pela manhã ou no fim da tarde, quando o sol está mais ameno e a vista fica ainda mais deslumbrante. Já a melhor época do ano é durante o outono ou o inverno, quando o clima é mais seco e há menos chance de neblina atrapalhar a paisagem.</p>
+    <img alt="Imagem do Cristo Redentor"
+        width="200px"
+        src="../../assets/photo-of-the-christ-the-redeemer-statue-dabbing-v0-wQKC-64Kg0uuuoEIIQIHHRauYn8V7XLero5Xe9Lc8Tg.webp">
+    <br>
+    <h3>Cataratas do Iguaçu (Foz do Iguaçu - PR)</h3>
+    <br>
+    <p>As Cataratas do Iguaçu são um dos maiores conjuntos de quedas d’água do mundo, localizadas no Parque Nacional do Iguaçu, em Foz do Iguaçu, Paraná. Formadas por mais de 270 quedas ao longo do Rio Iguaçu, impressionam pela força e beleza natural, sendo consideradas Patrimônio Natural da Humanidade pela UNESCO. O local é famoso por sua grandiosidade e pela Garganta do Diabo, a maior e mais impressionante das quedas. O melhor horário para visitar é pela manhã, quando a luz do sol valoriza as paisagens e facilita boas fotos. Já a melhor época do ano é entre agosto e setembro, quando o clima é mais ameno e as chuvas são menos frequentes, garantindo trilhas mais agradáveis e maior visibilidade.</p>
+    <img alt="Imagem das Cataratas Foz do Iguaçu"
+    width="200px"
+    src="../../assets/EO62D3NS4RM5LK7S5WEPFEJ6QI.avif">
+    <br>
+    <h3>Lençois Maranhenses (Barreirinhas - MA)</h3>
+    <br>
+    <p>Os Lençóis Maranhenses são um dos destinos naturais mais fascinantes do Brasil, localizados no município de Barreirinhas, no Maranhão. Trata-se de um imenso deserto de dunas brancas que, durante a temporada de chuvas, formam lagoas de águas cristalinas entre as areias. O local é famoso justamente por esse contraste único entre dunas e lagoas, criando paisagens que parecem irreais. O melhor horário para aproveitar é pela manhã ou no fim da tarde, quando o calor é mais ameno e a luz deixa o cenário ainda mais bonito. A melhor época do ano para visitar é entre junho e agosto, quando as lagoas estão cheias e propícias para banho.</p>
+    <img alt="Imagem do Lençol Maranhense"
+    width="200px"
+    src="../../assets/vem-ai-mais-um-feriadao-nos-lencois-maranhenses-332874.jpg">
+    <br>
+    <h3>Chapada Diamantina (Bahia – BA)</h3>
+    <br>
+    <p>A Chapada Diamantina é um dos principais destinos de ecoturismo do Brasil, localizada no interior da Bahia, em torno do município de Lençóis. A região abriga montanhas, vales, cavernas, cachoeiras e trilhas que atraem aventureiros e amantes da natureza de todo o mundo. É famosa por pontos como a Cachoeira da Fumaça, uma das maiores do país, e o Morro do Pai Inácio, que oferece uma vista panorâmica inesquecível. O melhor horário para trilhas e passeios é pela manhã, aproveitando o clima mais fresco. Já a melhor época do ano é durante a estação seca, entre maio e setembro, quando as trilhas ficam mais seguras e o céu limpo favorece a contemplação das paisagens.</p>
+    <img alt="Imagem da Chapada Diamantina"
+    width="200px"
+    src="../../assets/chapada-diamantina.jpg">
+    <br>
+    <h3>Fernando de Noronha (Pernambuco – PE)</h3>
+    <p>Fernando de Noronha é um arquipélago paradisíaco localizado a cerca de 350 km da costa de Pernambuco, considerado um dos destinos mais belos do Brasil. O local é famoso por suas praias de águas cristalinas, vida marinha rica e preservada, e por ser Patrimônio Natural da Humanidade pela UNESCO. Entre os pontos mais conhecidos estão a Baía do Sancho, eleita várias vezes como a melhor praia do mundo, e a Baía dos Golfinhos, onde é possível observar esses animais em seu habitat natural. O melhor horário para aproveitar as praias é pela manhã, quando o mar está mais calmo e a visibilidade para mergulho é maior. A melhor época para visitar é entre agosto e outubro, quando o clima é seco e o mar fica mais propício para atividades aquáticas.</p>
+    <img alt="Imagem de Fernando de Noronha"
+    width="200px"
+    src="../../assets/noronhe-se.jpg">
+    <br>
+    <h3>Pantamal (MS/MT)</h3>
+    <p>O Pantanal é a maior planície alagável do mundo, localizado entre os estados de Mato Grosso e Mato Grosso do Sul, e é considerado um dos ecossistemas mais ricos em biodiversidade. É famoso por sua fauna exuberante, sendo um dos melhores lugares do planeta para observação de aves, além de abrigar onças-pintadas, jacarés e capivaras em abundância. A região encanta turistas e pesquisadores pela beleza de suas paisagens naturais e pela facilidade de avistar animais em ambiente selvagem. O melhor horário para explorar é de manhã cedo ou no fim da tarde, quando a vida animal está mais ativa. Já a melhor época para visitar é durante a estação seca, entre maio e setembro, quando os acessos são mais fáceis e os animais se concentram em áreas menores, facilitando a observação.</p>
+    <img src="../../assets/3.webp" alt="Imagem do Pantanal" width="200px">
 </body>
 
 </html>
